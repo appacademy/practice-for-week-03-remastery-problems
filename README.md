@@ -1,13 +1,12 @@
 # Recursion, IIFEs and Asynchronous JavaScript Remastery Problems
 
-Complete the problems in the order specified. You should have `mocha` installed
-and will need to pass all the tests in order to move on.
+Complete the problems in the order specified.
 
 ## Setup
 
 1. Download the project from GitHub
 2. Run `npm install` to install dependencies
-3. Run `mocha` to run the tests
+3. Run `npm test` to run the tests
 
 If you have any trouble with this setup don't hesitate to ask a TA for help!
 
