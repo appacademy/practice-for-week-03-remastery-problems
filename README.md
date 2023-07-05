@@ -10,14 +10,24 @@ Complete the problems in the order specified.
 
 If you have any trouble with this setup don't hesitate to ask a TA for help!
 
-When you finish your project, don't forget to add your project to your Github!
+## Submission
 
-  1. Go to [Github][github]
-  2. Create a new repo
-  3. Initialize the local directory as a Git repository
-  4. Save your finished project
-  5. Add and commit your project
-  6. Push the project to the repo you created
+When you are ready to submit:
+
+1. Re-run all unit tests and fix any syntax errors that are crashing the tests.
+   If the unit tests crash, or do not run, you will receive no credit.
+2. **Delete the `node_modules` directory**
+3. Zip up your folder
+4. Upload it
+
+Don't forget to add your project to your Github!
+
+1. Go to [Github][github]
+2. Create a new repo
+3. Initialize the local directory as a Git repository
+4. Save your finished project
+5. Add and commit your project
+6. Push the project to the repo you created
 
 - Here are the docs for references [GitHub Docs][GitHub Docs]
 
